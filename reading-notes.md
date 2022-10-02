@@ -9,6 +9,7 @@ permalink: /reading-notes/
 - [Reading Notes](#reading-notes)
   - [Description](#description)
   - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
+    - [Things I Want to Know About](#things-i-want-to-know-about)
 
 ## Description
 
@@ -16,9 +17,6 @@ This repo is used to keep track of my thoughts and observations from the reading
 
 ## Code 401 - Advanced Software Development
 
-- Notes
+### Things I Want to Know About
 
-```python
-def main():
-    print("Welcome to Python")
-```
+- How to write efficient data structures and algorithms
