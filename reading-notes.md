@@ -10,7 +10,7 @@ permalink: /reading-notes/
   - [Description](#description)
   - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
     - [Things I Want to Know About](#things-i-want-to-know-about)
-    - [Class 1](https://andy-a-d-nguyen.github.io/reading-notes/class-01/)
+    - [Class 1](#class-1)
 
 ## Description
 
@@ -21,3 +21,5 @@ This repo is used to keep track of my thoughts and observations from the reading
 ### Things I Want to Know About
 
 - How to write efficient data structures and algorithms
+
+### [Class 1](https://andy-a-d-nguyen.github.io/reading-notes/class-01/)
