@@ -10,6 +10,7 @@ permalink: /reading-notes/
   - [Description](#description)
   - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
     - [Things I Want to Know About](#things-i-want-to-know-about)
+    - [Class 1](https://andy-a-d-nguyen.github.io/reading-notes/class-01/)
 
 ## Description
 
