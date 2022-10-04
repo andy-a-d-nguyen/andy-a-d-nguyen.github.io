@@ -12,7 +12,7 @@ Using a real life example, TDD is similar to the cars that people drive on the r
 
 ## if __name__ == '__main__'
 
-According to <https://www.geeksforgeeks.org/what-does-the-if>-__name__-__main__-do/>, this is used to run any python file as if it's the main program. This is useful for running python files in a project as a standalone module
+According to <https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/>, this is used to run any python file as if it's the main program. This is useful for running python files in a project as a standalone module
 
 Using a real life example, this is similar to the smartphones people use nowadays. A phone originally only make calls, but today's phones can do so much more and their functionalities can be used independently of the functiona to call other people.
 
