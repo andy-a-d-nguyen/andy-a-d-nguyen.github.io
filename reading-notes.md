@@ -9,8 +9,9 @@ permalink: /reading-notes/
 - [Reading Notes](#reading-notes)
   - [Description](#description)
   - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
-    - [Class 1](#class-1)
-    - [Class 2](#class-2)
+    - [Class 01](#class-01)
+    - [Class 02](#class-02)
+    - [Class 03](#class-03)
 
 ## Description
 
@@ -18,6 +19,8 @@ This repo is used to keep track of my thoughts and observations from the reading
 
 ## Code 401 - Advanced Software Development
 
-### [Class 1](https://andy-a-d-nguyen.github.io/reading-notes/class-01/)
+### [Class 01](https://andy-a-d-nguyen.github.io/reading-notes/class-01/)
 
-### [Class 2](https://andy-a-d-nguyen.github.io/reading-notes/class-02/)
+### [Class 02](https://andy-a-d-nguyen.github.io/reading-notes/class-02/)
+
+### [Class 03](https://andy-a-d-nguyen.github.io/reading-notes/class-03/)
