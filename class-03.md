@@ -4,32 +4,18 @@ title: "Class 03"
 permalink: /reading-notes/class-03/
 ---
 
-## Test Driven Development (TDD)
+## Read and Write Files in Python
 
-According to <https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932>, TDD makes a programmer think about what problems need to be solved first first before writing code. The way that's done to is to write tests, which acts as both documentation and also expectations for how the code should work and then write code that makes the tests pass. The more robust the test suite, the more documented the code is and the more confident a programmer feels about how the code performs in real life.
+According to <https://realpython.com/read-write-files-python/>, a file is a "contiguous set of bytes used to store data". Windows uses the backslash while Unix uses the forward slash to indicate a folder. Windows also uses CRLF (\r\n) to denote a line ending while Unix uses LF (\n) to denote a line ending.
 
-Using a real life example, TDD is similar to the cars that people drive on the roads. These cars have been tested to different extents as to meet safety requirements and laws before they are sold to the end consumers.
+When it comes to handling files in Python, ensuring that files are closed properly is very important. Also, Python comes with some built-in functionalities to open, close, read from and write to files.
 
-## if __name__ == '__main__'
+## Exceptions in Python
 
-According to <https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/>, this is used to run any python file as if it's the main program. This is useful for running python files in a project as a standalone module
-
-Using a real life example, this is similar to the smartphones people use nowadays. A phone originally only make calls, but today's phones can do so much more and their functionalities can be used independently of the functiona to call other people.
-
-## Recursion
-
-According to <https://www.youtube.com/watch?v=Mv9NEXX1VHc>, recursion is about solving sub-problems using the same function over and over until a base case where no further sub-problems exists. The result then cascades back to the original function that started the recursion calls
-
-A real life example of recursion is solving puzzles. You don't know how long it will take to solve a puzzle, but you do know that a puzzle is solved once all of it's pieces are in place.
+According to <https://realpython.com/python-exceptions/>, exceptions occur when a Python program runs into an error. If this error is not handle, the program will crash. However, there are ways for the program to continue even when it comes across an error. One way is by catching it with the `try` and `except` block.
 
 ## Bookmarks and Review
 
-<https://developers.google.com/edu/python/lists>
-<https://developers.google.com/edu/python/strings>
-<https://realpython.com/python-modules-packages/>
-<https://docs.pytest.org/en/latest/>
-<https://www.guru99.com/pytest-tutorial.html>
+<https://realpython.com/quizzes/read-write-files-python/>
 
 ## Things I want to know more about
-
-- How to determine if a problem is best solved using recursion

@@ -10,6 +10,7 @@ permalink: /reading-notes/
   - [Description](#description)
   - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
     - [Class 01](#class-01)
+    - [Data Structures and Algorithms](#data-structures-and-algorithms)
     - [Class 02](#class-02)
     - [Class 03](#class-03)
 
@@ -20,6 +21,8 @@ This repo is used to keep track of my thoughts and observations from the reading
 ## Code 401 - Advanced Software Development
 
 ### [Class 01](https://andy-a-d-nguyen.github.io/reading-notes/class-01/)
+
+### [Data Structures and Algorithms](https://andy-a-d-nguyen.github.io/reading-notes/data-structures-and-algorithms/)
 
 ### [Class 02](https://andy-a-d-nguyen.github.io/reading-notes/class-02/)
 

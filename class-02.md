@@ -4,18 +4,32 @@ title: "Class 02"
 permalink: /reading-notes/class-02/
 ---
 
-## Data Structures and Algorithms
+## Test Driven Development (TDD)
 
-### Discussion Questions
+According to <https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932>, TDD makes a programmer think about what problems need to be solved first first before writing code. The way that's done to is to write tests, which acts as both documentation and also expectations for how the code should work and then write code that makes the tests pass. The more robust the test suite, the more documented the code is and the more confident a programmer feels about how the code performs in real life.
 
-#### 1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+Using a real life example, TDD is similar to the cars that people drive on the roads. These cars have been tested to different extents as to meet safety requirements and laws before they are sold to the end consumers.
 
-One of the more important things to consider is the time and space complexity of the of the data structure. For example, arrays have an O(1) lookup time if you know which index you are looking for, as opposed to linked lists, which have an O(n) lookup time because you always have to search from the beginning of a linked list
+## if __name__ == '__main__'
 
-#### 2. How can we ensure that we’ll avoid an infinite recursive call stack?
+According to <https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/>, this is used to run any python file as if it's the main program. This is useful for running python files in a project as a standalone module
 
-According to <https://www.youtube.com/watch?v=vPEJSJMg4jY>, to avoid an infinite recursive call stack, we need to have a base case
+Using a real life example, this is similar to the smartphones people use nowadays. A phone originally only make calls, but today's phones can do so much more and their functionalities can be used independently of the function to call other people.
 
-## Things I Want to Know About
+## Recursion
 
-- How heaps work
+According to <https://www.youtube.com/watch?v=Mv9NEXX1VHc>, recursion is about solving sub-problems using the same function over and over until a base case where no further sub-problems exists. The result then cascades back to the original function that started the recursion calls
+
+A real life example of recursion is solving puzzles. You don't know how long it will take to solve a puzzle, but you do know that a puzzle is solved once all of it's pieces are in place.
+
+## Bookmarks and Review
+
+<https://developers.google.com/edu/python/lists>
+<https://developers.google.com/edu/python/strings>
+<https://realpython.com/python-modules-packages/>
+<https://docs.pytest.org/en/latest/>
+<https://www.guru99.com/pytest-tutorial.html>
+
+## Things I want to know more about
+
+- How to determine if a problem is best solved using recursion
