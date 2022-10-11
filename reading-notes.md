@@ -13,6 +13,7 @@ permalink: /reading-notes/
     - [Data Structures and Algorithms](#data-structures-and-algorithms)
     - [Class 02](#class-02)
     - [Class 03](#class-03)
+    - [Class 04](#class-04)
 
 ## Description
 
@@ -27,3 +28,5 @@ This repo is used to keep track of my thoughts and observations from the reading
 ### [Class 02](https://andy-a-d-nguyen.github.io/reading-notes/class-02/)
 
 ### [Class 03](https://andy-a-d-nguyen.github.io/reading-notes/class-03/)
+
+### [Class 04](https://andy-a-d-nguyen.github.io/reading-notes/class-04/)
