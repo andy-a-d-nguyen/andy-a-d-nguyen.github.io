@@ -23,3 +23,7 @@ According to <https://www.youtube.com/watch?v=v4cd1O4zkGw>, Big O talks about th
 ## Bookmarks and Review
 
 <https://docs.python.org/3/library/random.html>
+
+## Things I want to know more about
+
+- The relationship between dependency injection and inversion of control
