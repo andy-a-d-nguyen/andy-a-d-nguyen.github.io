@@ -14,6 +14,7 @@ permalink: /reading-notes/
     - [Class 02](#class-02)
     - [Class 03](#class-03)
     - [Class 04](#class-04)
+    - [Class 06](#class-06)
 
 ## Description
 
@@ -30,3 +31,5 @@ This repo is used to keep track of my thoughts and observations from the reading
 ### [Class 03](https://andy-a-d-nguyen.github.io/reading-notes/class-03/)
 
 ### [Class 04](https://andy-a-d-nguyen.github.io/reading-notes/class-04/)
+
+### [Class 06](https://andy-a-d-nguyen.github.io/reading-notes/class-06/)
