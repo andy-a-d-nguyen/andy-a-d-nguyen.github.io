@@ -22,6 +22,7 @@ permalink: /reading-notes/
     - [Class 12](#class-12)
     - [Class 13](#class-13)
     - [Class 14](#class-14)
+    - [Class 16](#class-16)
 
 ## Description
 
@@ -54,3 +55,5 @@ This repo is used to keep track of my thoughts and observations from the reading
 ### [Class 13](https://andy-a-d-nguyen.github.io/reading-notes/class-13/)
 
 ### [Class 14](https://andy-a-d-nguyen.github.io/reading-notes/class-14/)
+
+### [Class 16](https://andy-a-d-nguyen.github.io/reading-notes/class-16/)
