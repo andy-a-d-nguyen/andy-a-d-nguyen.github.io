@@ -66,3 +66,5 @@ This repo is used to keep track of my thoughts and observations from the reading
 ### [Class 18](https://andy-a-d-nguyen.github.io/reading-notes/class-18/)
 
 ### [Class 19](https://andy-a-d-nguyen.github.io/reading-notes/class-19/)
+
+### [Class 26](https://andy-a-d-nguyen.github.io/reading-notes/class-26/)
