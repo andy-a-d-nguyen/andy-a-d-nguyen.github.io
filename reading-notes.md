@@ -26,6 +26,7 @@ permalink: /reading-notes/
     - [Class 17](#class-17)
     - [Class 18](#class-18)
     - [Class 19](#class-19)
+    - [Class 26](#class-26)
 
 ## Description
 
