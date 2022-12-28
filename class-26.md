@@ -22,6 +22,11 @@ In terms of security, it also provides protection against multiple malicious att
 
 According to <https://wsvincent.com/how-django-works-behind-the-scenes/>, Django was created at the Lawrence Journal-World newspaper and became open-source in 2005. It is currently maintained by the Django Software Foundation.
 
+## Things I want to know more about
+
+- How to add CSS to Django templates
+- How to make Django templates responsive
+
 ## Bookmark and Review
 
 <https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction>
