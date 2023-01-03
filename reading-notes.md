@@ -27,6 +27,7 @@ permalink: /reading-notes/
     - [Class 18](#class-18)
     - [Class 19](#class-19)
     - [Class 26](#class-26)
+    - [Class 27](#class-27)
 
 ## Description
 
@@ -69,3 +70,5 @@ This repo is used to keep track of my thoughts and observations from the reading
 ### [Class 19](https://andy-a-d-nguyen.github.io/reading-notes/class-19/)
 
 ### [Class 26](https://andy-a-d-nguyen.github.io/reading-notes/class-26/)
+
+### [Class 27](https://andy-a-d-nguyen.github.io/reading-notes/class-27/)
